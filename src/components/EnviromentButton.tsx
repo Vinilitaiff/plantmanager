@@ -38,8 +38,8 @@ const styles = StyleSheet.create({
     height:40,    
     alignItems: 'center',
     justifyContent: 'center',
-    borderRadius:12,
-    marginRight:5,
+    borderRadius:12, 
+    marginHorizontal:5,
   },
   containerActive:{    
     backgroundColor: colors.green_light
